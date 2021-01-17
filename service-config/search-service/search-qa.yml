@@ -1,6 +1,6 @@
 search:
  result:
-  perpage: 100
+  perpage: 500
  canexport: true
  render: false
 duration: all
